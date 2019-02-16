@@ -64,7 +64,7 @@
     <script language="javascript">
         $(document).ready(function () {  
             //$("#test").load(function (respnse) { 
-            $.get("http://localhost:55349/api/Inventories/", { ID: 1 }, function (data)
+            $.get("http://localhost:55349/api/Inventories/", { ID: @Model.Id }, function (data)
             {
                 $("#test")
                     .text(data.Quantity) , console.log("Passed")
