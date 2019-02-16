@@ -42,9 +42,38 @@
             @Html.DisplayFor(model => model.Price)
         </dd>
 
+        <dt>
+            Quantity
+        </dt>
+
+        <dd>
+            <div id="test"></div>
+        </dd>
+
     </dl>
 </div>
 <p>
     @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
     @Html.ActionLink("Back to List", "Index")
 </p>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script language="javascript">
+        $(document).ready(function () {  
+            //$("#test").load(function (respnse) { 
+            $.get("http://localhost:55349/api/Inventories/", { ID: 1 }, function (data)
+            {
+                $("#test")
+                    .text(data.Quantity) , console.log("Passed")
+
+            }, "json")
+                
+        }); 
+
+     
+    </script>
+
+}
