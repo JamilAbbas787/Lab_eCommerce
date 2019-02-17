@@ -35,8 +35,8 @@ namespace AHBC_SampleLab.eCommerce.Controllers
 
             await client.PostAsJsonAsync("http://localhost:55349/api/Inventories", new Inventory
             {
-                ID = product.Id,
-                Quantity = quantity
+                //ID = product.Id,
+                //Quantity = quantity
 
             });
 

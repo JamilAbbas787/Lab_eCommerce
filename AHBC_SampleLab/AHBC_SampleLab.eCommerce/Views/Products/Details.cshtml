@@ -55,17 +55,17 @@
     </dl>
 </div>
 
-@using (Html.BeginForm( "PostProduct", "api"))
-{
-<div>
-    <h4>Order</h4>
-    <div class="form-group col-md-2">
+
+<form action="http://localhost:54957/api/PostProduct" method="post">
+    <div>
+        <h4> Order </h4>
+        <div class="form-group col-md-2">
         <input type="number" name="quantity" min="1" max="10" class="form-control" id="orderAmount">
     </div>
     @*<button name="Submit" type="submit" value="Send Order" /> </button>*@
     <button type="submit" value="Submit">Submit</button>
-</div>
-}
+    </div>
+</form>
 
 <p>
     @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
