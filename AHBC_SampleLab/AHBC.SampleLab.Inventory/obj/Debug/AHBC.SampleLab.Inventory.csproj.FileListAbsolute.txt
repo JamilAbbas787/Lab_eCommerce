@@ -1,3 +1,9 @@
+C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\System.IO.Compression.dll
+C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\VBCSCompiler.exe
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\ApplicationInsights.config
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\AHBC.SampleLab.Inventory.dll.config
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\AHBC.SampleLab.Inventory.dll
@@ -9,13 +15,9 @@ C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.I
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\csi.exe.config
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\csi.rsp
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\Microsoft.CodeAnalysis.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\Microsoft.VisualBasic.Core.targets
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\Microsoft.Win32.Primitives.dll
@@ -25,7 +27,6 @@ C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.I
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\System.Diagnostics.Process.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\System.IO.Compression.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\System.IO.FileSystem.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\System.IO.FileSystem.Primitives.dll
@@ -48,7 +49,6 @@ C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.I
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\vbc.exe
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\vbc.exe.config
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\vbc.rsp
-C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\VBCSCompiler.exe
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\Antlr3.Runtime.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\EntityFramework.dll
@@ -66,7 +66,9 @@ C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.I
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\Newtonsoft.Json.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Diagnostics.DiagnosticSource.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Net.Http.Formatting.dll
+C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Web.Cors.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Web.Helpers.dll
+C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Web.Http.Cors.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Web.Http.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Web.Http.WebHost.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Web.Mvc.dll
@@ -78,10 +80,11 @@ C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.I
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\WebGrease.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\EntityFramework.xml
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\EntityFramework.SqlServer.xml
-C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\Newtonsoft.Json.xml
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Net.Http.Formatting.xml
-C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Web.Helpers.xml
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Web.Http.xml
+C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Web.Http.Cors.xml
+C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\Newtonsoft.Json.xml
+C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Web.Helpers.xml
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Web.Http.WebHost.xml
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Web.Mvc.xml
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Web.Optimization.xml
@@ -96,11 +99,8 @@ C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.I
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\Microsoft.AI.Web.xml
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\obj\Debug\AHBC.SampleLab.Inventory.csprojAssemblyReference.cache
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\obj\Debug\AHBC.SampleLab.Inventory.csproj.CoreCompileInputs.cache
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\obj\Debug\AHBC.SampleLab.Inventory.csproj.CopyComplete
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\obj\Debug\AHBC.SampleLab.Inventory.dll
 C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\obj\Debug\AHBC.SampleLab.Inventory.pdb
-C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Web.Cors.dll
-C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Web.Http.Cors.dll
-C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\bin\System.Web.Http.Cors.xml
+C:\Users\jamil\Desktop\GrandCircus\Lab_eCommerce\AHBC_SampleLab\AHBC.SampleLab.Inventory\obj\Debug\AHBC.SampleLab.Inventory.csprojAssemblyReference.cache

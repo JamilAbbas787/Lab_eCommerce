@@ -1,6 +1,8 @@
 ﻿@model AHBC_SampleLab.eCommerce.Models.Product
 
 @{
+    /**/
+
     ViewBag.Title = "Details";
 }
 
@@ -52,6 +54,19 @@
 
     </dl>
 </div>
+
+@using (Html.BeginForm( "PostProduct", "api"))
+{
+<div>
+    <h4>Order</h4>
+    <div class="form-group col-md-2">
+        <input type="number" name="quantity" min="1" max="10" class="form-control" id="orderAmount">
+    </div>
+    @*<button name="Submit" type="submit" value="Send Order" /> </button>*@
+    <button type="submit" value="Submit">Submit</button>
+</div>
+}
+
 <p>
     @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
     @Html.ActionLink("Back to List", "Index")
@@ -62,18 +77,18 @@
     @Scripts.Render("~/bundles/jqueryval")
 
     <script language="javascript">
-        $(document).ready(function () {  
-            //$("#test").load(function (respnse) { 
+        $(document).ready(function () {
+            //$("#test").load(function (respnse) {
             $.get("http://localhost:55349/api/Inventories/", { ID: @Model.Id }, function (data)
             {
                 $("#test")
                     .text(data.Quantity) , console.log("Passed")
 
             }, "json")
-                
-        }); 
 
-     
+        });
+
+
     </script>
 
 }

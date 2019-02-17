@@ -45,10 +45,10 @@ namespace AHBC.SampleLab.Inventory.Controllers.API
                 return BadRequest(ModelState);
             }
 
-            db.Inventories.Add(inventory);
+            //db.Inventories.Add(new Models.Inventory {ID = sentID, Quantity = quantity });
             await db.SaveChangesAsync();
 
-            return CreatedAtRoute("DefaultApi", new { id = inventory.ID }, inventory);
+            return Ok();
         }
 
         protected override void Dispose(bool disposing)
